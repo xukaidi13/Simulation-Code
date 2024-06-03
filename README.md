@@ -1,4 +1,4 @@
-# Simulation-code
+# Distributed-Training-and-Execution Multi-Agent Reinforcement Learning for Power Control in HetNet
 Code for the paper "Distributed-Training-and-Execution Multi-Agent Reinforcement Learning for Power Control in HetNet"
 
 Please run the corresponding "main_..." files to generate the results in the paper.
